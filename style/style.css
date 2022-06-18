@@ -1,0 +1,22 @@
+.logo, .banner, .content, .footer, .product, .tab-list {
+    border: 1px solid;
+    border-color: #a9acad;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.banner, .logo{
+    height: 200px;
+}
+
+.footer {
+    height: 50px;
+}
+
+.tab {
+    cursor: pointer;
+    color: blue;
+}
+
+.main{
+    height: 100vh;
+}
